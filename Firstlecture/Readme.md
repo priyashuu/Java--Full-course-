@@ -49,6 +49,7 @@ Java is used in web, mobile, and enterprise applications.
    - **Textual Representation**: Uses simple, informal language to describe the logic of a program.
    - **Structure**: Written in plain text with structured, human-readable syntax.
    - **Purpose**: Helps in planning the logic and structure of code without worrying about specific programming syntax.
+   <img src="https://slideplayer.com/slide/14570513/90/images/6/Algorithm+Example+To+calculate+Average+of+three+numbers%3A+Algorithm%3A.jpg" alt="pseudo code of three avg numbers">
 
 In summary, flow charts provide a graphical overview, while pseudo code offers a step-by-step textual description of logic.
 

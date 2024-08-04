@@ -50,8 +50,11 @@ Java is used in web, mobile, and enterprise applications.
    - **Structure**: Written in plain text with structured, human-readable syntax.
    - **Purpose**: Helps in planning the logic and structure of code without worrying about specific programming syntax.
    <img src="https://slideplayer.com/slide/14570513/90/images/6/Algorithm+Example+To+calculate+Average+of+three+numbers%3A+Algorithm%3A.jpg" width="300px" alt="pseudo code of three avg numbers">
-
-In summary, flow charts provide a graphical overview, while pseudo code offers a step-by-step textual description of logic.
+### Java installations 
+1. **JDK**: Search on the google chrome |[JDK](https://www.oracle.com/in/java/technologies/downloads/)|
+2. **Code editor /IDE**
+- VISUAL STUDIO CODE :|[VS CODE ](https://visualstudio.microsoft.com/downloads/)|
+3.**ALL IN ONE**: Its all in package |[Vs code with java ](https://code.visualstudio.com/docs/languages/java)|
 
 ### Code  Explanation:
 

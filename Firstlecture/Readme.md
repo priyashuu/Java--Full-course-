@@ -43,7 +43,7 @@ Java is used in web, mobile, and enterprise applications.
    - **Visual Representation**: Uses shapes and arrows to represent the flow of a program or process.
    - **Structure**: Includes symbols like rectangles (processes), diamonds (decisions), and ovals (start/end).
    - **Purpose**: Useful for visualizing the sequence of steps and decision points in a process.
-   
+   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrzHVLquFgHDWVX6Mc1dJzdJgl20N9zr9pHy2vCc4Z5_njsgFJbBUrnRy3DhEkHB_Haw4Ujk7ssEpPKI__73yc5VpV9S837RPlePvc7kZ-16hYoE_LmBQp8hfpuQmsao32Lg5rdlIlUr6X/s563/sum+and+avg+of+three+numbers.PNG" alt ="Flow chart of three avg numbers">
 
 2. **Pseudo Code**:
    - **Textual Representation**: Uses simple, informal language to describe the logic of a program.

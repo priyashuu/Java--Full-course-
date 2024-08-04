@@ -73,3 +73,12 @@ Java is used in web, mobile, and enterprise applications.
    - **`System.out`**: This is an output stream used to print data to the console.
    - **`println`**: This is a method that prints the argument passed to it and then terminates the line (moves to the next line in the console).
 
+### what jdk include :
+JDK:Jave Develoment kit
+It includes :
+1. JRE:Java runtime environment
+2. JVN:Java Virtual Machine 
+3. Development tools
+### How my code Running : 
+1. **Compilation**:Converts Java code (.java files) into platform-independent bytecode (.class files) using the javac compiler.
+2. **Execution**:The Java Virtual Machine (JVM) runs the bytecode, translating it into machine code so the program can be executed on any platform with a JVM.

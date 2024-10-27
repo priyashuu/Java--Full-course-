@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Tutorial1 {
     public static void main(String[] args) {
-       int ans= sum2();
+       int ans= sum3(1,4);
        System.out.println(ans);
     }
     static int  sum2(){
@@ -26,4 +26,11 @@ public class Tutorial1 {
         System.out.println(sum);
 
     }
+    static int sum3(int i ,int j){
+       
+        int sum =i+j;
+        return sum;
+
+    }
 }
+
